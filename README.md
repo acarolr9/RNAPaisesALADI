@@ -318,26 +318,4 @@ REFERENCIAS
 **Zilio, M., & Angeles, M. (2014).** ¿EL FINAL DE LA CURVA DE KUZNETS DE CARBONO? Un análisis semiparamétrico para la América Latina y el Caribe. *ELTRIMESTRE ECONÓMICO*, 241 - 270.
 
 
-**8**
-
-|REVISTA HISPANA PARA EL ANÁLISIS DE REDES SOCIALES|
-| -: |
-
-
-Milgram & Granovetter, Vol.26, #1, 2015, 267-292
-
-**4**
-
-|REVISTA HISPANA PARA EL ANÁLISIS DE REDES SOCIALES|
-| -: |
-
-
-Milgram & Granovetter, Vol.26, #1, 2015, 267-292
-
-
-**5**
-
-|REVISTA HISPANA PARA EL ANÁLISIS DE REDES SOCIALES|
-| -: |
-
 
