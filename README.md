@@ -45,19 +45,19 @@ Por lo que estudio busca lograr comprar los mercados de combustibles fósiles y 
 
 Para el abordaje del referente teórico en este artículo, a continuación, se revisa la producción y exportación de combustibles fósiles y bio combustibles, al igual que las emisiones de CO2 en países miembros de ALADI.
 
-Combustibles fosiles
+### Combustibles fosiles
 
 Se agrupan bajo esta denominación el carbón, el petróleo y el gas natural, productos que son altamente explotados en la economía latinoamericana, la cual basa parte significativa de su renta en la explotación de dichos productos (Vives & Millan, 2000). Principalmente la Región Andina (Venezuela, Colombia, Ecuador, Perú y Bolivia) se encuentran las reservas principales y los países productores más representativos de combustibles fósiles en toda América Latina. En 2013 las reservas de petróleo, gas natural y carbón se estimaron en 54.931 millones de toneladas equivalentes de petróleo, equivalentes al 11% de las reservas de América Latina. En el mismo año la producción de combustibles fósiles fue de 375 millones, correspondiendo con el 45% de América Latina (OLADE, 2015).
 
 Sin embargo, esta economía no está fundada en un modelo económico financiero y ambiental sostenible, sino que, es un sector competitivo, con una alta participación privada el cual carece de mecanismos de control de los cambios en el uso de la tierra, que permiten la deforestación de grandes extensiones para afectar las tierras para producción agrícola y pastoreo (Zilio, 2011). En este contexto, el análisis de la relación entre la explotación y comercio de combustibles fósiles y producción de CO2 resulta relevante por tres razones: en primer lugar, porque los senderos de CO2 en la región han experimentado un marcado crecimiento en los años recientes, en contraposición a la disminución observada en los países desarrollados. En segundo lugar, porque las metas de reducción de emisiones establecidas en los países desarrollados no tienen sentido alguno si sólo generan un desplazamiento de actividades contaminantes desde esos países hacia los menos desarrollados y porque la política climática debe estar orientada primordialmente a atenuar los efectos del cambio climático en los países y sectores en condición de marcada vulnerabilidad, que son precisamente los que gozan de menores posibilidades de adaptación (Zilio & Angeles, 2014) 
 
-Biocombustibles
+### Biocombustibles
 
 Los combustibles biológicos son obtenidos de manera renovable a partir de restos orgánicos (González y Valero, 2011). Entre los principales biocombustibles de se encuentran el bioetanol, el biodiésel y el biogás. La producción de etanol deriva de las biomasas de los cultivos energéticos de maíz, sorgo, yuca y caña de azúcar, entre otros; el biodiésel se produce a partir de las oleaginosas de la soya, aceite de palma, colza, etc., y el biogás se obtiene a partir de residuos orgánicos mediante procesos de digestión anaerobia (Torres y Hernández, 2006).
 
 En América Latina la producción de biocombustibles es liderada por Brasil, Argentina y Colombia, según datos del último estudio sobre biocombustibles publicado por la Comisión Económica para América Latina y el Caribe (CEPAL), y se ha convertido en la mejor opción de fuente energética para competir con el petróleo (Gomez, 2016). En América Latina el mayor interés en los biocombustibles se tiene en la fabricación de bioetanol, con una producción cercana a los 26,3 billones de litros, con una participación de Brasil (34,2%), seguido de Colombia (0,4%) y nula acción de Argentina. En este sentido se evidencia el buen desempeño de Latinoamérica cuando se compara con Estados Unidos, que encabeza la producción con el 54% (REN21, 2009). 
 
-Emisiones de CO2
+### Emisiones de CO2
 
 La Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) en el taller sobre los gases de efecto invernadero (GEI) muestran que las emisiones en Latinoamérica se han duplicado en los últimos años y seguirán aumentando si no se lleva a cabo un esfuerzo mayor para reducirlas. Estas emisiones superaron los 785 millones de toneladas de CO2 en 2010, con un crecimiento del 75 por ciento desde 1990 (FAO, 2014).
 
@@ -91,11 +91,11 @@ La generación de las métricas se realiza utilizando la formulación existente 
 
 Como un primer desarrollo se generan las redes de exportaciones país origen a país destino con los respectivos pesos normalizados de cada transacción. Seguido se generan las métricas para las redes de exportación de combustibles fósiles y de biocombustibles, se realiza un análisis comparativo entre estas dos redes identificado los líderes y principales socios comerciales en cada mercado y finalmente se desarrolla un análisis descriptivo del comportamiento de cada red contra variables externas como es las emisiones de CO2.
 
-Participantes
+### Participantes
 
 El estudio se centra en los países miembros de ALADI (Asociación Latinoamericana de Integración) esta es el mayor grupo de integración conformado por 13 países, Argentina, Bolivia, Brasil, Chile, Colombia, Cuba, Ecuador, México, Panamá, Paraguay, Perú, Uruguay y Venezuela, representando en conjunto 20 millones de kilómetros cuadrados y más de 510 millones de habitantes.​ Debido a la disponibilidad de los datos para el periodo del estudio se excluyó 3 países, Cuba, Panamá y Venezuela; por lo tanto el estudio se desarrolla sobre los 10 países restantes.
 
-Instrumentos
+### Instrumentos
 
 la fuente de estos datos son cálculos del ITC basados en estadísticas de UN COMTRADE y del ITC. El ITC (International Trade Centre) es una organización impulsada por la ONU y la Organización Mundial del Comercio y el UN COMTRADE (United Nations International Trade Statistics Database) es una organización que reúne la información de exportaciones detallada por categoría de alrededor de 170 países que de manera anual se reporte a la división de estadística de las Naciones Unidas (UNSD). Se filtraron los datos correspondientes para los países miembros de ALADI para el año 2018 seleccionando los productos de Combustibles Fósiles (código en Trade Map: *27 Combustibles minerales, aceites minerales y productos de su destilación; materias bituminosas; ceras minerales.)* y Biocombustibles (*código en Trade Map: Producto General 29: Productos químicos orgánicos. Se usará dos subcategorías de dicho producto: 2901 Hidrocarburos acíclicos y 2902 Hidrocarburos cíclicos*).
 
