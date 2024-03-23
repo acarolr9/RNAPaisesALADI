@@ -1,4 +1,4 @@
-<a name="_toc427669722"></a>**Análisis estructural de las redes de mercado de combustibles fósiles y biocombustibles entre los países pertenecientes a ALADI**
+#Análisis estructural de las redes de mercado de combustibles fósiles y biocombustibles entre los países pertenecientes a ALADI
 
 
 ## RESUMEN
