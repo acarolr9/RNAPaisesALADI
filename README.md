@@ -1,14 +1,14 @@
 <a name="_toc427669722"></a>**Análisis estructural de las redes de mercado de combustibles fósiles y biocombustibles entre los países pertenecientes a ALADI**
 
 
-RESUMEN
+## RESUMEN
 
 
 El objetivo de este artículo es comparar el mercado de combustible fósil con biocombustible, a través de un análisis de redes sociales para los países miembros de la ALADI (Asociación Latinoamericana de Integración), con lo cual se mostrarán las diferencias y similitudes de estos mercados. Se analizó el comportamiento para cada uno de los 10 países, dando como resultado a Brasil como uno de los principales productores en temas como consumo, producción y exportación para los combustibles tomados en cuenta y a Argentina como un punto de influencia en ambos mercados.
 
 **Palabras clave**: *Exportaciones – Redes sociales – CO2 – Biocombustibles – Combustibles fósiles.*
 
-ABSTRACT
+## ABSTRACT
 
 
 The objective of this article is to compare the fossil fuel market with biofuel, through a social network analysis for the member countries of ALADI (Latin American Integration Association), which will show the differences and similarities of these markets. The behavior for each of the 10 countries was analyzed, resulting in Brazil as one of the main producers in consumption, production and export for each of the fuels and Argentina as a point of influence in both markets.
@@ -22,7 +22,7 @@ Milgram & Granovetter, Vol.26, #1, 2015, 267-292
 
 
 
-INTRODUCCIÓN
+## INTRODUCCIÓN
 
 La relación entre la actividad económica y la degradación ambiental ha sido ampliamente estudiada en el marco de la economía ambiental, convirtiéndose en uno de los temas más abordados por dicha disciplina en los pasados 20 años (Ahmed, Ozturk, Ghumro & Mukesh, 2019). Especialmente, el crecimiento exponencial de la población humana y la carrera entre las economías mundiales para lograr un crecimiento económico acelerado han provocado que el consumo de recursos naturales sea más rápido de lo que puede recuperar, afectando negativamente la calidad ambiental global más que nunca en la historia de la humanidad (Ling, 2017).
 
@@ -41,7 +41,7 @@ Sin embargo, no todas las redes sociales son iguales; por el contrario, el patr�
 
 Por lo que estudio busca lograr comprar los mercados de combustibles fósiles y biocombustibles en para los países miembros de ALADI. Por medio, de la exploración de las redes sociales que se forman por la exportación de dichos productos con el fin de entender cuáles son los principales actores (países) en estos mercados y como estos pueden contribuir en una transición a economías más limpias. 
 
-MARCO TEORICO
+## MARCO TEORICO
 
 Para el abordaje del referente teórico en este artículo, a continuación, se revisa la producción y exportación de combustibles fósiles y bio combustibles, al igual que las emisiones de CO2 en países miembros de ALADI.
 
@@ -67,7 +67,7 @@ Un aporte al estudio del cambio climático de Zilio (2008), Emisiones de dióxid
 
 Yandle, (2010) para México (Ochoa, Sanchez, Carrion & Torre, 2019).
 
-MÉTODO
+## MÉTODO
 
 Este estudio tiene como objetivo el análisis estructural de las redes de exportaciones e importaciones de combustible fósiles y biocombustibles de los países que conforman la ALADI, a fin de identificar y comparar la dinámica de estos dos mercados y su relación con variables externas como las emisiones CO2 per cápita de cada país.
 
@@ -103,7 +103,7 @@ Se genera las redes de exportaciones mediante excel2pajek y posteriormente se ed
 
 La visualización de la red y la generación de las métricas se utilizó el software Pajek64 5.08. 
 
-RESULTADOS
+## RESULTADOS
 
 Descripción de la red de exportaciones de combustibles fósiles en los países pertenecientes a ALADI
 
@@ -122,15 +122,7 @@ La tabla 1 muestra los indicadores globales de la red, basados en la densidad de
 |10|76|0\.76|0\.85|
 
 
-5**
-
-|Revista Hispana para el Análisis de Redes Sociales|
-| -: |
-
-
-Milgram & Granovetter, Vol.26, #1, 2015, 267-292
-
-![](Aspose.Words.88990309-684f-44e3-bd16-3f288ca073df.003.jpeg)
+![](003.jpeg)
 
 ` `**Gráfico 1**. Red de exportación de combustibles fósiles.
 
@@ -153,13 +145,6 @@ A continuación, presentamos los indicadores estructurales de la red a nivel de 
 |**Peru**|0\.09|-2.40|0\.01|0\.82|1\.00|-0.13|
 |**Mexico**|-0.97|-3.72|0\.01|0\.75|1\.00|0\.03|
 
-**5**
-
-|Revista Hispana para el Análisis de Redes Sociales|
-| -: |
-
-
-Milgram & Granovetter, Vol.26, #1, 2015, 267-292
 
 La red de comercio de combustibles fósiles de los países pertenecientes a ALADI muestra como principales países consumidores a Brasil y Chile esto se puede evidenciar al ser los dos países con el mayor grado de entrada superior a 6 muy por encima de los demás socios. Brasil es a su vez el mayor productor y exportador de combustibles fósiles con un grado de salida de 3.31, por lo anterior este país se convierte el principal socio de este mercado. Tenemos países con importante capacidad exportadora, pero que generan baja demanda de los productos como son Ecuador, Bolivia y Paraguay y en contra parte Chile que tiene una alta demanda de los productos, pero baja capacidad de exportación.
 
@@ -187,28 +172,13 @@ En la table 3 vemos los indicadores globales de la red, para este mercado tenemo
 
 
 
-**7**
-
-|Revista Hispana para el Análisis de Redes Sociales|
-| -: |
-
-
-
 ![](004.jpeg)
 
 **Gráfico 2**. Red de exportación de biocombustibles.
 
 
-
-Milgram & Granovetter, Vol.26, #1, 2015, 267-292
-
 A continuación, presentamos los indicadores estructurales de la red a nivel de nodo.
 
-
-**7**
-
-|REVISTA HISPANA PARA EL ANÁLISIS DE REDES SOCIALES|
-| -: |
 
 **Tabla 4** 
 
@@ -228,9 +198,6 @@ A continuación, presentamos los indicadores estructurales de la red a nivel de 
 |**Chile**|-1.02|-0.79|0\.00|0\.40|0\.60|-0.06|
 
 
-
-Milgram & Granovetter, Vol.26, #1, 2015, 267-292
-
 En el mercado de biocombustibles entre los países de la ALADI tiene un claro país productor y exportador que es Brasil con 4.61 de centralidad de salida mientras el Segundo Bolivia tiene solo 0.11. En cuanto a los países generadores de demanda de biocombustibles los líderes son Argentina y México. 
 
 El análisis de la capacidad de intermediación en la red, solo existen dos países con algún factor de control de la comunicación que serían México y Brasil. 
@@ -241,7 +208,7 @@ Finalmente, los países mejor relacionados y con la mayor influencia en el merca
 
 La comercialización de Biocombustibles entre los países de LAIA tiene 3 notorios líderes; Brasil, Argentina y México, siendo el primero el país productor dominante y los segundos los generadores de la mayor demanda.
 
-DISCUSIÓN
+## DISCUSIÓN
 
 Con respecto al país que tiene una mayor interacción con cada uno de los combustibles, se observa que Brasil es de los más activos en temas de consumo, producción y exportación; la gran participación de este país está relacionada con varios factores demográficos, al ser el país con la mayor cantidad de población y geográficos, debido a ser uno de los de mayor extensión territorial con respecto a los demás países de la ALADI. Es importante mencionar que, aunque sea uno de los principales productores y exportadores, se ven oportunidades de mejora a la hora de controlar el mercado de estos combustibles.
 
@@ -251,7 +218,7 @@ Con respecto a los demás países, no hay una relación tan fuerte con respecto 
 
 Finalmente, se destaca el hecho que todos los países de la ALADI son importadores de alguna manera de combustible fósil, mientras que esta situación no se presenta con el biocombustible, esto debido al poco impacto en el mercado que tienen este tipo de combustibles en cada uno de esos países.
 
-REFERENCIAS
+## REFERENCIAS
 
 **Ahmed, K., Ozturk, I., Ghumro, I. & Mukesh, P. (2019).** Effect of trade on ecological quality: a case of D-8 countries. *Environ Sci Pollut*, 26, 35935–35944.
 
